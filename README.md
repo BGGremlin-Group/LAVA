@@ -1,4 +1,4 @@
-# LAVA — Linguistic Attack Vector Analytics
+# 🌋LAVA — Linguistic Attack Vector Analytics
 
 **Offline • Single-file • Analysis**
 
